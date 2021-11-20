@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChethanShetty563
 - 👀 I’m interested in Web Development and Mobile application development
 - 🌱 I’m currently learning Microservices using Spring Boot
-- 💞️ I’m looking to collaborate on Mobile application developmen
+- 💞️ I’m looking to collaborate on Mobile application development
 - 📫 How to reach me chethan563@gmail.com
 
 <!---
